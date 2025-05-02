@@ -1,6 +1,6 @@
 # Insurance-Claims-Dashboard
 
-https://public.tableau.com/app/profile/duchoma.agoons/viz/Carinsuranceclaimproject/Story1  
+**Please click here to see dashboard** 👉🏼 https://public.tableau.com/app/profile/duchoma.agoons/viz/Carinsuranceclaimproject/Story1  
 
 # Situation
 
