@@ -2,10 +2,10 @@
 
 # Situation
 
-I worked with a detailed dataset from an insurance company, containing information on customer demographics (age, gender, education, income), car details (type, age, value), claim history (frequency, amounts), and geographical factors (urbanicity). The insurance company sought to gain a deeper understanding of claim patterns to enhance risk management, optimize premium pricing, and improve operational efficiency.
+The insurance company sought to gain a deeper understanding of claim patterns to enhance risk management, optimize premium pricing, and improve operational efficiency.
 
 # Task
-My responsibility was to analyze the dataset and develop an interactive Tableau dashboard (available at: Tableau Public - Car Insurance Claims Project) that would uncover actionable insights. The goal was to identify key factors influencing claim frequency and amounts, such as customer profiles, car usage, or location, and present these findings in a clear, visual format for stakeholders.
+My responsibility was to analyze claims data for the past 3 years - The data contained information on customer demographics (age, gender, education, income), car details (type, age, value), claim history (frequency, amounts), and geographical factors (urbanicity) - and develop an interactive Tableau dashboard that would uncover actionable insights. **The goal was to identify key factors influencing claim frequency and amounts, such as customer profiles, car usage, or location, and present these findings in a clear, visual format for stakeholders.**
 
 # Action
 **Data Preparation**: I began by cleaning the dataset, handling missing values (e.g., incomplete income or home value entries) and standardizing categorical variables (e.g., gender, education) to ensure data quality.
