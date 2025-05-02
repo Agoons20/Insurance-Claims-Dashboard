@@ -2,14 +2,13 @@
 
 **Please click here to see dashboard** 👇🏽 https://public.tableau.com/app/profile/duchoma.agoons/viz/Carinsuranceclaimproject/Story1  
 
-# Situation
-
+## Situation
 The insurance company sought to gain a deeper understanding of claim patterns to enhance risk management, optimize premium pricing, and improve operational efficiency.
 
-# Task
+## Task
 My responsibility was to analyze claims data for the past 3 years - The data contained information on customer demographics (age, gender, education, income), car details (type, age, value), claim history (frequency, amounts), and geographical factors (urbanicity) - and develop an interactive Tableau dashboard that would uncover actionable insights. **The goal was to identify key factors influencing claim frequency and amounts, such as customer profiles, car usage, or location, and present these findings in a clear, visual format for stakeholders.**
 
-# Action
+## Action
 **Data Preparation**: I began by cleaning the dataset, handling missing values (e.g., incomplete income or home value entries) and standardizing categorical variables (e.g., gender, education) to ensure data quality.
 
 **Exploratory Analysis**: Using Tableau, I explored relationships within the data and created a multi-sheet dashboard featuring:
@@ -26,7 +25,7 @@ My responsibility was to analyze claims data for the past 3 years - The data con
 
 **Dashboard Design**: I organized the visualizations into a cohesive story, ensuring the dashboard was intuitive and user-friendly for stakeholders.
 
-# Result
+## Result
 - The dashboard revealed several impactful insights:
 
 - Younger drivers (ages 20-30) exhibited higher claim frequencies, suggesting a need for age-based risk strategies.
