@@ -1,6 +1,6 @@
 # Insurance-Claims-Dashboard
 
-**Situation**
+# Situation
 
 I worked with a detailed dataset from an insurance company, containing information on customer demographics (age, gender, education, income), car details (type, age, value), claim history (frequency, amounts), and geographical factors (urbanicity). The insurance company sought to gain a deeper understanding of claim patterns to enhance risk management, optimize premium pricing, and improve operational efficiency.
 
