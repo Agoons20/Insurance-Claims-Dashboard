@@ -24,7 +24,7 @@ My responsibility was to analyze claims data for the past 3 years - The data con
 
 **Advanced Features**: I implemented calculated fields (e.g., claim frequency ratios) and added interactive filters (e.g., by car type or travel time) to enable dynamic exploration. Tableau’s statistical tools helped perform correlation analyses, such as linking travel time to claim frequency.
 
-Dashboard Design: I organized the visualizations into a cohesive story, ensuring the dashboard was intuitive and user-friendly for stakeholders.
+**Dashboard Design**: I organized the visualizations into a cohesive story, ensuring the dashboard was intuitive and user-friendly for stakeholders.
 
 # Result
 - The dashboard revealed several impactful insights:
