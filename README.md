@@ -1,5 +1,7 @@
 # Insurance-Claims-Dashboard
 
+https://public.tableau.com/app/profile/duchoma.agoons/viz/Carinsuranceclaimproject/Story1 
+
 # Situation
 
 The insurance company sought to gain a deeper understanding of claim patterns to enhance risk management, optimize premium pricing, and improve operational efficiency.
